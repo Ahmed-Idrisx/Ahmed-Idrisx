@@ -10,10 +10,10 @@ Focused on clean code, smooth user experience, and pixel-perfect UI.
 
 ## 🚀 About Me
 
-- 🎯 Front-End Developer focused on responsive and interactive web apps.
-- ⚛️ Specialized in **React** and component-based architecture.
-- 🌐 Strong experience working with REST APIs using **Axios**.
-- 🎨 Passionate about UI/UX, clean design, and performance optimization.
+- 🎯 Front-End Developer specialized in building responsive and interactive web applications.
+- ⚛️ Specialized in **React** and component-based architecture, reusable components, and scalable UI systems.
+- 🌐 Strong experience in consuming and integrating RESTful APIs.
+- 🎨 Passionate about clean code, performance optimization, and best practices.
 - 🧠 Always learning and improving my problem-solving skills.
 - 🚀 Currently working toward **Full-Stack Development**.
 - 🤝 Open for freelance work & collaborations.
@@ -57,9 +57,11 @@ Focused on clean code, smooth user experience, and pixel-perfect UI.
 
 ## 📚 Currently Learning
 
-- Advanced React Patterns & Performance Optimization
+- Advanced React Patterns (Hooks Optimization, Context API, Router)
 - TypeScript Best Practices
-- API Architecture & Authentication
+- API Architecture & Authentication Handling
+- Performance Optimization & Lazy Loading
+- Scalable Component Design
 - Testing Strategies (Unit & Integration Testing)
 - Backend Basics (Node.js)
 
@@ -103,11 +105,11 @@ Interactive chatbot using API integration and dynamic UI.
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/feed/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:ahmedidrisx@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
