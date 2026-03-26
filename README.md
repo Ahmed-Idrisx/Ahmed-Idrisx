@@ -109,7 +109,7 @@ Interactive chatbot using API integration and dynamic UI.
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_USERNAME/" target="_blank">
+<a href="https://www.linkedin.com/in/ahmed-idris-68b4233ba/" target="_blank">
   <img src="https://img.icons8.com/color/48/linkedin.png"/>
 </a>
 
@@ -117,7 +117,7 @@ Interactive chatbot using API integration and dynamic UI.
   <img src="https://img.icons8.com/color/48/gmail-new.png"/>
 </a>
 
-<a href="https://wa.me/201XXXXXXXXX" target="_blank">
+<a href="https://wa.me/201015041410" target="_blank">
   <img src="https://img.icons8.com/color/48/whatsapp--v1.png"/>
 </a>
 
