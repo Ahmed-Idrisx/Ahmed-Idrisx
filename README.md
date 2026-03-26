@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Okair</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Idris</h1>
 <h3 align="center">Front-End Developer | React Developer</h3>
 
 <p align="center">
@@ -91,12 +91,16 @@ Interactive chatbot using API integration and dynamic UI.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Idrisx&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&icon_color=58A6FF" height="170" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Idrisx&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Idrisx&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="150"/>
 </p>
 
 ---
@@ -105,16 +109,16 @@ Interactive chatbot using API integration and dynamic UI.
 
 <p align="center">
 
-<a href="https://www.linkedin.com/feed/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+<a href="https://www.linkedin.com/in/YOUR_USERNAME/" target="_blank">
+  <img src="https://img.icons8.com/color/48/linkedin.png"/>
 </a>
 
 <a href="mailto:ahmedidrisx@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.icons8.com/color/48/gmail-new.png"/>
 </a>
 
-<a href="YOUR_WHATSAPP_LINK">
-<img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/201XXXXXXXXX" target="_blank">
+  <img src="https://img.icons8.com/color/48/whatsapp--v1.png"/>
 </a>
 
 </p>
@@ -122,5 +126,8 @@ Interactive chatbot using API integration and dynamic UI.
 ---
 
 ## ⚡ Fun Fact
+
+Outside of work, I'm interested in following the latest developments in science 🧪.  
+I enjoy creating art 🎨, playing video games 🎮.
 
 I turn ideas into real-world applications — combining clean code with beautiful design 🚀
